@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "928A15F6-2C62-4AE8-866F-99CCBF1B72C1"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA29B2FF-6B42-40F4-88FB-4548E6BB5F2A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "movieslog/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "getMovies()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3977EFA-B081-4E71-BECB-4174C66B7A57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "movieslog/movie-list/MoviewListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3977EFA-B081-4E71-BECB-4174C66B7A57 - 6198a87de87162ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movieslog.MoviewListView.MovieListViewModel.getMovies() async -&gt; ()"
+                  moduleName = "movieslog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanshugarg/Development/Learning/movieslog/movieslog/movie-list/MoviewListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "B3977EFA-B081-4E71-BECB-4174C66B7A57 - dc6022079cda5a81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for movieslog.MoviewListView.MovieListViewModel.getMovies() async -&gt; ()"
+                  moduleName = "movieslog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanshugarg/Development/Learning/movieslog/movieslog/movie-list/MoviewListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "B3977EFA-B081-4E71-BECB-4174C66B7A57 - e3e07bfc3b73afa0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for movieslog.MoviewListView.MovieListViewModel.getMovies() async -&gt; ()"
+                  moduleName = "movieslog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanshugarg/Development/Learning/movieslog/movieslog/movie-list/MoviewListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9FC9A82-B65E-497D-A344-602D3A9EC86A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "movieslog/movie-list/MoviewListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D9FC9A82-B65E-497D-A344-602D3A9EC86A - 9fde038898b09a1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #3 @Sendable () async -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0)&gt; in movieslog.MoviewListView.body.getter : some"
+                  moduleName = "movieslog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanshugarg/Development/Learning/movieslog/movieslog/movie-list/MoviewListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "D9FC9A82-B65E-497D-A344-602D3A9EC86A - 5434305f90bd2b0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #3 @Sendable () async -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0)&gt; in movieslog.MoviewListView.body.getter : some"
+                  moduleName = "movieslog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanshugarg/Development/Learning/movieslog/movieslog/movie-list/MoviewListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "D9FC9A82-B65E-497D-A344-602D3A9EC86A - 86f1a6cb226fde04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #3 @Sendable () async -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0)&gt; in movieslog.MoviewListView.body.getter : some"
+                  moduleName = "movieslog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanshugarg/Development/Learning/movieslog/movieslog/movie-list/MoviewListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "437B60F9-DC79-475F-973B-5318004AF989"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "movieslog/movie-list/MoviewListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "437B60F9-DC79-475F-973B-5318004AF989 - e3e07bfc3b73af4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for movieslog.MoviewListView.MovieListViewModel.getMovies() async -&gt; ()"
+                  moduleName = "movieslog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanshugarg/Development/Learning/movieslog/movieslog/movie-list/MoviewListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "437B60F9-DC79-475F-973B-5318004AF989 - 37ad9334904f0ab9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (movieslog.SingleMovieResponse) -&gt; movieslog.MovieCardModel in movieslog.MoviewListView.MovieListViewModel.getMovies() async -&gt; ()"
+                  moduleName = "movieslog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanshugarg/Development/Learning/movieslog/movieslog/movie-list/MoviewListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "153">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C08BF774-3469-4B68-8F38-A59783C48070"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "movieslog/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getMovies()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
